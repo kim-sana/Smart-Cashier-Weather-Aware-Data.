@@ -1,4 +1,4 @@
-# Smart Cashier: Weather-Aware Data (Warung Kak San)
+# Smart Cashier: Weather-Aware Data
 
 A lightweight, desktop-based cashier application built with **Python** and **PySide6**. This project goes beyond basic CRUD operations by integrating real-time weather data 
 to provide contextual insights into sales patterns.
