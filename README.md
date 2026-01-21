@@ -73,4 +73,15 @@ python kasir.py
 * `kasir_data.json`: Local database file
 * `.env`: Configuration file for API credentials
 
+## Bonus
+you can package the code into singular exe file if you have pyinstaller.
+
+
+
+```bash
+pip install pyinstaller
+
+pyinstaller --noconsole --onefile --icon=icon.ico --name=Kasir-Warung-Kak-San kasir.py
+```
+
 *Developed as part of the Visual Programming coursework (Semester 3).*
