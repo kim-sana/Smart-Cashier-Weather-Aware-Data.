@@ -1,0 +1,16 @@
+Panduan Pengguna
+Pastikan Internet terhubung
+
+Menu Kasir
+Fitur: 
+-menambahkan menu dengan menekan tombol "+ Menu Baru".
+-menambahkan item dan jumlahnya ke keranjang belanja pada Combo Box dan Line Edit dan menekan tombol "Tambah Ke Keranjang".
+-mengosongkan item di keranjang dengan menekan tombol "Kosongkan Keranjang".
+-memproses transaksi dengan menekan tombol "Proses Bayar Sekarang".
+
+Menu Log Omset
+Fitur:
+-melihat log omset berdasarkan widget calender.
+-menampilkan tabel pemasukan dan pengeluaran yang memuat Tipe, Keterangan (Item), Total, Cuaca dan Waktu.
+-menghapus log omset dengan menekan tombol "Hapus Baris"
+-menambah keterangan pengeluaran dengan menekan tombol "+ Biaya Operasional"
