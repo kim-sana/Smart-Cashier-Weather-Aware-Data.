@@ -1,4 +1,4 @@
-Kasir-Warung-Kak-San.exe
-kasir_data.json
 .env
-.env.weather
+kasir_data.json
+Kasir-Warung-Kak-San.exe
+__pycache__/
